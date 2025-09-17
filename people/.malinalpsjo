@@ -11,5 +11,5 @@
 .aimax --malin --complete
 .polytechnicmax --malin --complete
 .simsimmax --malin --complete
-.simsim --games --complete 
-.aiauthid --games --complete
+.simsim --malin --complete 
+.aiauthid --malin --complete
